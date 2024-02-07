@@ -1,0 +1,11 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\srawat\\Downloads\\mockito_jar_files\\mockito-core-5.10.0.jar",
+        "c:\\Users\\srawat\\Downloads\\gson-2.8.9.jar",
+        "c:\\Users\\srawat\\Downloads\\snakeyaml-1.9.jar\\snakeyaml-1.9.jar",
+        "c:\\Users\\srawat\\Downloads\\mockitoJupiter\\mockito-junit-jupiter-5.10.0.jar"
+    ]
+}

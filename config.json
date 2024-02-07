@@ -1,0 +1,8 @@
+{
+    "NumberOfPlayers": 4,
+    "BoardSize": 100,
+    "NumberOfSnakes": 2,
+    "NumberOfLadders": 3,
+    "NumberOfDice": 1,
+    "MovementStrategy": "MAX"
+  }
